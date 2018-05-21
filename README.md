@@ -1,7 +1,5 @@
 # Books-App--using-Angular-
 
-Inspire exercise
-
 ### Prerequisites
 ```
 Webserver or localhost
